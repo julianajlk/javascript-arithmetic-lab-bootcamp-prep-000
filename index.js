@@ -1,3 +1,4 @@
+var number;
 function add() {
 
 }
